@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/immigrant/re3/final/em9300_tenta00_d"
+	"$bumpmap" "models/immigrant/re3/final/em9300_tenta00_n"
+	"$translucent" 1
+}

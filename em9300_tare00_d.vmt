@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/immigrant/re3/final/em9300_tare00_d"
+	"$bumpmap" "models/immigrant/re3/final/em9300_tare00_n"
+	"$halflambert" 1
+//	"$alphatest" 1
+//	"$nocull" 1
+//	"$selfillum" 1
+
+	"$phong" "1"
+	"$phongexponent" 250
+	"$phongboost"	".9"
+//	"$phongexponent "5"
+	"$phongfresnelranges"	"[1 1 8]"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "12"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".2"	
+}
